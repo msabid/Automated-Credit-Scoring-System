@@ -19,6 +19,10 @@ This synthesized dataset is intended for use in developing and testing machine l
 
 
 
+
+
+
+
 **#Analytical Techniques**
 
 This project employs a variety of data preprocessing and machine learning techniques to assess and predict the creditworthiness of applicants based on the dataset:
